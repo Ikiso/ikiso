@@ -3,7 +3,6 @@
 Hi there, I'm Aleksandr a backend developer.
 
 - :school: I'm currently learning : Node.js, Nest.js
-- :dart: Fun fact : I already made a Robin Hood in darts (twice)
 
 </details>
 
