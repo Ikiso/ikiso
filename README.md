@@ -1,9 +1,8 @@
 ## Info
 
-Hi there, I'm Charles a bioinformatics engineer.
+Hi there, I'm Aleksandr a backend developer.
 
-- :computer: I'm currently working for :whale: [MoBiDiC](https://github.com/mobidic) at :hospital: [CHU Montpellier](https://www.chu-montpellier.fr/en/)
-- :school: I'm currently learning : flask, streamlit
+- :school: I'm currently learning : Node.js, Nest.js
 - :dart: Fun fact : I already made a Robin Hood in darts (twice)
 
 </details>
