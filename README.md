@@ -29,8 +29,6 @@ Hi there, I'm Aleksandr a backend developer.
 [![postgreSQL](https://img.shields.io/badge/PostgreSQL-★☆☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
 [![mongoDB](https://img.shields.io/badge/MongoDB-★★☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
 
-[![bash](https://img.shields.io/badge/bash-★☆☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-
 
 </details>
 
